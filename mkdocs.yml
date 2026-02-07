@@ -1,0 +1,31 @@
+site_name: Fatum Consortes Wiki
+site_description: Canon hub for the Fatum Consortes Universe (Mythrael Infinita v7)
+site_url: https://batcomptroller.github.io/fatum-consortes-wiki/
+repo_url: https://github.com/BatComptroller/fatum-consortes-wiki
+repo_name: fatum-consortes-wiki
+
+theme:
+  name: material
+  features:
+    - navigation.tabs
+    - navigation.sections
+    - navigation.path
+    - navigation.indexes
+    - content.code.copy
+    - search.suggest
+    - search.highlight
+
+markdown_extensions:
+  - admonition
+  - attr_list
+  - footnotes
+  - toc:
+      permalink: true
+  - pymdownx.details
+  - pymdownx.superfences
+
+plugins:
+  - search
+
+nav:
+  - Start Here: index.md
