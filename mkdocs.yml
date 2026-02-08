@@ -29,3 +29,6 @@ plugins:
 
 nav:
   - Start Here: index.md
+  - Canon:
+      - Canon Rules: canon/canon-rules.md
+
