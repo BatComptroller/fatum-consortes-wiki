@@ -1,0 +1,171 @@
+[
+  {
+    "title": "Fatum Consortes Wiki",
+    "url": "/index/",
+    "source_path": "docs/index.md",
+    "canon_mode": "CANON-LOCK",
+    "continuity_flag": "OK",
+    "version": "2026.1",
+    "tags": [
+      "hub"
+    ],
+    "symbols": [],
+    "related": [],
+    "snippet": "Fatum Consortes Wiki This is the public canon hub for the **Fatum Consortes Universe**, maintained under **MYTHRAEL INFINITA v7**. - **CANON-LOCK** entries are authoritative. - **BRIDGE-TEST** entries propose retcons with ripple warnings. -"
+  },
+  {
+    "title": "Viridiom (formerly Ner\u2019galor)",
+    "url": "/locations/viridiom/",
+    "source_path": "docs/locations/viridiom.md",
+    "canon_mode": "CANON-LOCK",
+    "continuity_flag": "OK",
+    "version": "2026.1",
+    "tags": [
+      "location",
+      "viridiom",
+      "sanctuary",
+      "post-incursion",
+      "threshold"
+    ],
+    "symbols": [
+      "verdant-crystal",
+      "mirror-moss",
+      "sanctum-sigil"
+    ],
+    "related": [
+      "/characters/titan/",
+      "/characters/titan-comprehensive/",
+      "/canon/canon-rules/",
+      "/canon/continuity/",
+      "/cosmology/trinity-suprema/"
+    ],
+    "snippet": "Viridiom (formerly Ner\u2019galor) Identity - **Type:** Re-sanctified sanctuary moon / myth-aware soulworld - **Former Designation:** Ner\u2019galor (entropic world-eater / Outerverse engine) - **Core Node:** **Veridion Heart** (living biomechanical "
+  },
+  {
+    "title": "Trinity Suprema",
+    "url": "/cosmology/trinity-suprema/",
+    "source_path": "docs/cosmology/trinity-suprema.md",
+    "canon_mode": "CANON-LOCK",
+    "continuity_flag": "OK",
+    "version": "2026.1",
+    "tags": [
+      "cosmology",
+      "trinity-suprema",
+      "lumina",
+      "gaea",
+      "harbinger",
+      "pillars",
+      "balance",
+      "continuity",
+      "becoming"
+    ],
+    "symbols": [
+      "lumina-gold",
+      "gaea-green",
+      "harbinger-blue"
+    ],
+    "related": [
+      "/canon/canon-rules/",
+      "/canon/continuity/",
+      "/locations/viridiom/",
+      "/characters/titan/",
+      "/characters/titan-comprehensive/"
+    ],
+    "snippet": "Trinity Suprema Definition The **Trinity Suprema** are the three supreme metaphysical pillars that stabilize multiversal coherence in the Fatum Consortes Universe. They are not \u201cgods of domination,\u201d but **principles of permanence**\u2014each gov"
+  },
+  {
+    "title": "Titan (Eliot Freeman)",
+    "url": "/characters/titan/",
+    "source_path": "docs/characters/titan.md",
+    "canon_mode": "CANON-LOCK",
+    "continuity_flag": "OK",
+    "version": "2026.1",
+    "tags": [
+      "character",
+      "trinity-of-hope",
+      "avatar-of-hope",
+      "titan"
+    ],
+    "symbols": [
+      "lumina-gold",
+      "gaea-green",
+      "harbinger-blue"
+    ],
+    "related": [
+      "/canon/canon-rules/",
+      "/canon/continuity/",
+      "/locations/viridiom/",
+      "/cosmology/trinity-suprema/"
+    ],
+    "snippet": "Titan (Eliot Freeman) Core Identity - **Alias:** Avatar of Hope - **Civilian Identity:** Eliot Freeman - **Ethnicity/Nationality:** Nigerian American - **Narrative Office:** Mythic Beacon / Narrative Catalyst - **Ethos:** Restoration over a"
+  },
+  {
+    "title": "Titan (Eliot Freeman) \u2014 Comprehensive Codex",
+    "url": "/characters/titan-comprehensive/",
+    "source_path": "docs/characters/titan-comprehensive.md",
+    "canon_mode": "CANON-LOCK",
+    "continuity_flag": "OK",
+    "version": "2026.1",
+    "tags": [
+      "character",
+      "titan",
+      "abilities",
+      "powers",
+      "weaknesses",
+      "allies",
+      "adversaries",
+      "trinity-of-hope"
+    ],
+    "symbols": [
+      "lumina-gold",
+      "gaea-green",
+      "harbinger-blue"
+    ],
+    "related": [
+      "/characters/titan/",
+      "/canon/canon-rules/",
+      "/canon/continuity/",
+      "/locations/viridiom/",
+      "/cosmology/trinity-suprema/"
+    ],
+    "snippet": "Titan (Eliot Freeman) \u2014 Comprehensive Codex Identity Snapshot - **Alias:** Avatar of Hope - **Civilian Identity:** Eliot Freeman - **Ethnicity/Nationality:** Nigerian American - **Role:** Mythic Beacon / Narrative Catalyst - **Prime Ethos:*"
+  },
+  {
+    "title": "Continuity System",
+    "url": "/canon/continuity/",
+    "source_path": "docs/canon/continuity.md",
+    "canon_mode": "CANON-LOCK",
+    "continuity_flag": "OK",
+    "version": "2026.1",
+    "tags": [
+      "canon",
+      "continuity",
+      "governance"
+    ],
+    "symbols": [],
+    "related": [
+      "/canon/canon-rules/",
+      "/index/"
+    ],
+    "snippet": "Continuity System This page defines how canon is validated, updated, and repaired under **MYTHRAEL INFINITA v7**. Continuity Flags (Required) OK Aligned with CANON-LOCK canon. No action required. Minor Tension A variance exists but is expla"
+  },
+  {
+    "title": "Canon Rules",
+    "url": "/canon/canon-rules/",
+    "source_path": "docs/canon/canon-rules.md",
+    "canon_mode": "CANON-LOCK",
+    "continuity_flag": "OK",
+    "version": "2026.1",
+    "tags": [
+      "canon",
+      "governance",
+      "mythrael-v7"
+    ],
+    "symbols": [],
+    "related": [
+      "/canon/continuity/",
+      "/index/"
+    ],
+    "snippet": "Canon Rules This wiki is the authoritative canon hub for the **Fatum Consortes Universe**, maintained under **MYTHRAEL INFINITA v7 \u2014 NEURAL DREAMFORGE**. Canon Modes CANON-LOCK **Definition:** Authoritative continuity. Entries marked CANON-"
+  }
+]
