@@ -1,0 +1,403 @@
+[
+  {
+    "title": "Fatum Consortes Wiki",
+    "url": "/index/",
+    "source_path": "docs/index.md",
+    "canon_mode": "CANON-LOCK",
+    "continuity_flag": "OK",
+    "version": "2026.1",
+    "tags": [
+      "hub"
+    ],
+    "symbols": [],
+    "related": [],
+    "snippet": "Fatum Consortes Wiki This is the public canon hub for the **Fatum Consortes Universe**, maintained under **MYTHRAEL INFINITA v7**. - **CANON-LOCK** entries are authoritative. - **BRIDGE-TEST** entries propose retcons with ripple warnings. -"
+  },
+  {
+    "title": "Onyx (Adrian Vale) \u2014 The Dark Architect",
+    "url": "/adversaries/onyx/",
+    "source_path": "docs/adversaries/onyx.md",
+    "canon_mode": "CANON-LOCK",
+    "continuity_flag": "OK",
+    "version": "2026.1",
+    "tags": [
+      "adversary",
+      "onyx",
+      "adrian-vale",
+      "outerverse",
+      "nyarlathotep",
+      "despair",
+      "manipulation"
+    ],
+    "symbols": [
+      "abyssal-violet",
+      "fracture-seam",
+      "false-sun"
+    ],
+    "related": [
+      "/cosmology/outerverse/",
+      "/cosmology/trinity-suprema/",
+      "/characters/titan-comprehensive/",
+      "/locations/viridiom/",
+      "/canon/canon-rules/",
+      "/canon/continuity/"
+    ],
+    "snippet": "Onyx (Adrian Vale) \u2014 The Dark Architect Identity - **Public Identity:** Adrian Vale (human-presenting fa\u00e7ade) - **True Identity:** Onyx \u2014 avatar-vector of **Nyarlathotep** (\u201cthe Crawling Chaos\u201d) - **Domain:** Despair-theatre, manipulation, "
+  },
+  {
+    "title": "The Shadow Over Existence \u2014 Arc Overview (CANON-LOCK)",
+    "url": "/arcs/shadow-over-existence/",
+    "source_path": "docs/arcs/shadow-over-existence.md",
+    "canon_mode": "CANON-LOCK",
+    "continuity_flag": "OK",
+    "version": "2026.1",
+    "tags": [
+      "arc",
+      "shadow-over-existence",
+      "timeline",
+      "outerverse",
+      "viridiom",
+      "trinity-of-hope"
+    ],
+    "symbols": [],
+    "related": [
+      "/characters/titan/",
+      "/characters/titan-comprehensive/",
+      "/locations/viridiom/",
+      "/cosmology/trinity-suprema/",
+      "/cosmology/outerverse/",
+      "/adversaries/onyx/",
+      "/canon/canon-rules/",
+      "/canon/continuity/"
+    ],
+    "snippet": "The Shadow Over Existence \u2014 Arc Overview (CANON-LOCK) Arc Premise **The Shadow Over Existence** chronicles the escalation of Outerverse pressure into the Solar System and the Fatum Consortes\u2019 defining choice: **victory through reweaving rat"
+  },
+  {
+    "title": "Harmony (Angela Richmond)",
+    "url": "/characters/harmony/",
+    "source_path": "docs/characters/harmony.md",
+    "canon_mode": "CANON-LOCK",
+    "continuity_flag": "OK",
+    "version": "2026.1",
+    "tags": [
+      "character",
+      "trinity-of-hope",
+      "harmony",
+      "angela-richmond",
+      "balance",
+      "resonance",
+      "healing"
+    ],
+    "symbols": [
+      "lunar-silver",
+      "celestial-veil",
+      "song-thread"
+    ],
+    "related": [
+      "/characters/titan/",
+      "/characters/titan-comprehensive/",
+      "/cosmology/trinity-suprema/",
+      "/cosmology/outerverse/",
+      "/locations/viridiom/",
+      "/arcs/shadow-over-existence/",
+      "/canon/canon-rules/",
+      "/canon/continuity/"
+    ],
+    "snippet": "Harmony (Angela Richmond) Core Identity - **Alias:** Harmony - **Civilian Identity:** Angela Richmond - **Ethnicity/Heritage:** Yoruba and Cherokee descent - **Role:** Guardian of Ethereal Balance / Celestial Bridge - **Ethos:** Stabilize b"
+  },
+  {
+    "title": "Weilu \u2014 Keeper of the Infinite",
+    "url": "/characters/weilu/",
+    "source_path": "docs/characters/weilu.md",
+    "canon_mode": "CANON-LOCK",
+    "continuity_flag": "OK",
+    "version": "2026.1",
+    "tags": [
+      "character",
+      "trinity-of-hope",
+      "weilu",
+      "wisdom",
+      "strategist",
+      "celestial-archive",
+      "lattice"
+    ],
+    "symbols": [
+      "jade-fractal",
+      "lattice-line",
+      "harbinger-blue"
+    ],
+    "related": [
+      "/characters/titan/",
+      "/characters/titan-comprehensive/",
+      "/characters/harmony/",
+      "/cosmology/trinity-suprema/",
+      "/cosmology/outerverse/",
+      "/locations/viridiom/",
+      "/arcs/shadow-over-existence/",
+      "/canon/canon-rules/",
+      "/canon/continuity/"
+    ],
+    "snippet": "Weilu \u2014 Keeper of the Infinite Core Identity - **Name:** Weilu - **Pronouns:** he/him - **Role:** Strategist Supreme / Cosmic Navigator / Keeper of Wisdom - **Function in the Trinity of Hope:** Wisdom-as-lattice (maps continuity, seals para"
+  },
+  {
+    "title": "Harmony (Angela Richmond) \u2014 Comprehensive Codex Update",
+    "url": "/characters/harmony-comprehensive/",
+    "source_path": "docs/characters/harmony-comprehensive.md",
+    "canon_mode": "CANON-LOCK",
+    "continuity_flag": "OK",
+    "version": "2026.1",
+    "tags": [
+      "character",
+      "harmony",
+      "angela-richmond",
+      "abilities",
+      "powers",
+      "weaknesses",
+      "allies",
+      "adversaries",
+      "trinity-of-hope"
+    ],
+    "symbols": [
+      "lunar-silver",
+      "celestial-veil",
+      "song-thread",
+      "sanctum-sigil"
+    ],
+    "related": [
+      "/characters/harmony/",
+      "/characters/titan/",
+      "/characters/titan-comprehensive/",
+      "/canon/canon-rules/",
+      "/canon/continuity/",
+      "/cosmology/trinity-suprema/",
+      "/cosmology/outerverse/",
+      "/locations/viridiom/",
+      "/arcs/shadow-over-existence/"
+    ],
+    "snippet": "Harmony (Angela Richmond) \u2014 Comprehensive Codex Update Identity Snapshot - **Alias:** Harmony - **Civilian Identity:** Angela Richmond - **Heritage:** Yoruba and Cherokee descent - **Role:** Guardian of Ethereal Balance / Celestial Bridge -"
+  },
+  {
+    "title": "Titan (Eliot Freeman) \u2014 Comprehensive Codex",
+    "url": "/characters/titan-comprehensive/",
+    "source_path": "docs/characters/titan-comprehensive.md",
+    "canon_mode": "CANON-LOCK",
+    "continuity_flag": "OK",
+    "version": "2026.1",
+    "tags": [
+      "character",
+      "titan",
+      "abilities",
+      "powers",
+      "weaknesses",
+      "allies",
+      "adversaries",
+      "trinity-of-hope"
+    ],
+    "symbols": [
+      "lumina-gold",
+      "gaea-green",
+      "harbinger-blue"
+    ],
+    "related": [
+      "/characters/titan/",
+      "/canon/canon-rules/",
+      "/canon/continuity/",
+      "/locations/viridiom/",
+      "/cosmology/trinity-suprema/"
+    ],
+    "snippet": "Titan (Eliot Freeman) \u2014 Comprehensive Codex Identity Snapshot - **Alias:** Avatar of Hope - **Civilian Identity:** Eliot Freeman - **Ethnicity/Nationality:** Nigerian American - **Role:** Mythic Beacon / Narrative Catalyst - **Prime Ethos:*"
+  },
+  {
+    "title": "Weilu \u2014 Comprehensive Codex Update",
+    "url": "/characters/weilu-comprehensive/",
+    "source_path": "docs/characters/weilu-comprehensive.md",
+    "canon_mode": "CANON-LOCK",
+    "continuity_flag": "OK",
+    "version": "2026.1",
+    "tags": [
+      "character",
+      "trinity-of-hope",
+      "weilu",
+      "abilities",
+      "powers",
+      "motivations",
+      "weaknesses",
+      "allies",
+      "adversaries",
+      "celestial-archive",
+      "lattice"
+    ],
+    "symbols": [
+      "jade-fractal",
+      "lattice-line",
+      "harbinger-blue"
+    ],
+    "related": [
+      "/characters/weilu/",
+      "/characters/titan/",
+      "/characters/titan-comprehensive/",
+      "/characters/harmony/",
+      "/canon/canon-rules/",
+      "/canon/continuity/",
+      "/cosmology/trinity-suprema/",
+      "/cosmology/outerverse/",
+      "/locations/viridiom/",
+      "/arcs/shadow-over-existence/"
+    ],
+    "snippet": "Weilu \u2014 Comprehensive Codex Update Identity Snapshot - **Name:** Weilu - **Pronouns:** he/him - **Titles:** Keeper of the Infinite / Strategist Supreme / Cosmic Navigator - **Trinity of Hope Function:** Wisdom-as-lattice (maps continuity, s"
+  },
+  {
+    "title": "Titan (Eliot Freeman)",
+    "url": "/characters/titan/",
+    "source_path": "docs/characters/titan.md",
+    "canon_mode": "CANON-LOCK",
+    "continuity_flag": "OK",
+    "version": "2026.1",
+    "tags": [
+      "character",
+      "trinity-of-hope",
+      "avatar-of-hope",
+      "titan"
+    ],
+    "symbols": [
+      "lumina-gold",
+      "gaea-green",
+      "harbinger-blue"
+    ],
+    "related": [
+      "/canon/canon-rules/",
+      "/canon/continuity/",
+      "/locations/viridiom/",
+      "/cosmology/trinity-suprema/"
+    ],
+    "snippet": "Titan (Eliot Freeman) Core Identity - **Alias:** Avatar of Hope - **Civilian Identity:** Eliot Freeman - **Ethnicity/Nationality:** Nigerian American - **Narrative Office:** Mythic Beacon / Narrative Catalyst - **Ethos:** Restoration over a"
+  },
+  {
+    "title": "Viridiom (formerly Ner\u2019galor)",
+    "url": "/locations/viridiom/",
+    "source_path": "docs/locations/viridiom.md",
+    "canon_mode": "CANON-LOCK",
+    "continuity_flag": "OK",
+    "version": "2026.1",
+    "tags": [
+      "location",
+      "viridiom",
+      "sanctuary",
+      "post-incursion",
+      "threshold"
+    ],
+    "symbols": [
+      "verdant-crystal",
+      "mirror-moss",
+      "sanctum-sigil"
+    ],
+    "related": [
+      "/characters/titan/",
+      "/characters/titan-comprehensive/",
+      "/canon/canon-rules/",
+      "/canon/continuity/",
+      "/cosmology/trinity-suprema/"
+    ],
+    "snippet": "Viridiom (formerly Ner\u2019galor) Identity - **Type:** Re-sanctified sanctuary moon / myth-aware soulworld - **Former Designation:** Ner\u2019galor (entropic world-eater / Outerverse engine) - **Core Node:** **Veridion Heart** (living biomechanical "
+  },
+  {
+    "title": "Trinity Suprema",
+    "url": "/cosmology/trinity-suprema/",
+    "source_path": "docs/cosmology/trinity-suprema.md",
+    "canon_mode": "CANON-LOCK",
+    "continuity_flag": "OK",
+    "version": "2026.1",
+    "tags": [
+      "cosmology",
+      "trinity-suprema",
+      "lumina",
+      "gaea",
+      "harbinger",
+      "pillars",
+      "balance",
+      "continuity",
+      "becoming"
+    ],
+    "symbols": [
+      "lumina-gold",
+      "gaea-green",
+      "harbinger-blue"
+    ],
+    "related": [
+      "/canon/canon-rules/",
+      "/canon/continuity/",
+      "/locations/viridiom/",
+      "/characters/titan/",
+      "/characters/titan-comprehensive/"
+    ],
+    "snippet": "Trinity Suprema Definition The **Trinity Suprema** are the three supreme metaphysical pillars that stabilize multiversal coherence in the Fatum Consortes Universe. They are not \u201cgods of domination,\u201d but **principles of permanence**\u2014each gov"
+  },
+  {
+    "title": "Outerverse (The Other Gods)",
+    "url": "/cosmology/outerverse/",
+    "source_path": "docs/cosmology/outerverse.md",
+    "canon_mode": "CANON-LOCK",
+    "continuity_flag": "OK",
+    "version": "2026.1",
+    "tags": [
+      "cosmology",
+      "outerverse",
+      "other-gods",
+      "entropy",
+      "despair",
+      "corruption",
+      "reality-scars"
+    ],
+    "symbols": [
+      "abyssal-violet",
+      "fracture-seam",
+      "void-storm"
+    ],
+    "related": [
+      "/cosmology/trinity-suprema/",
+      "/canon/canon-rules/",
+      "/canon/continuity/",
+      "/locations/viridiom/",
+      "/characters/titan-comprehensive/"
+    ],
+    "snippet": "Outerverse (The Other Gods) Definition The **Outerverse** refers to the extradimensional stratum associated with the **Other Gods**\u2014entities and forces that assault not only matter, but **meaning, identity, memory, and causal coherence**. O"
+  },
+  {
+    "title": "Canon Rules",
+    "url": "/canon/canon-rules/",
+    "source_path": "docs/canon/canon-rules.md",
+    "canon_mode": "CANON-LOCK",
+    "continuity_flag": "OK",
+    "version": "2026.1",
+    "tags": [
+      "canon",
+      "governance",
+      "mythrael-v7"
+    ],
+    "symbols": [],
+    "related": [
+      "/canon/continuity/",
+      "/index/"
+    ],
+    "snippet": "Canon Rules This wiki is the authoritative canon hub for the **Fatum Consortes Universe**, maintained under **MYTHRAEL INFINITA v7 \u2014 NEURAL DREAMFORGE**. Canon Modes CANON-LOCK **Definition:** Authoritative continuity. Entries marked CANON-"
+  },
+  {
+    "title": "Continuity System",
+    "url": "/canon/continuity/",
+    "source_path": "docs/canon/continuity.md",
+    "canon_mode": "CANON-LOCK",
+    "continuity_flag": "OK",
+    "version": "2026.1",
+    "tags": [
+      "canon",
+      "continuity",
+      "governance"
+    ],
+    "symbols": [],
+    "related": [
+      "/canon/canon-rules/",
+      "/index/"
+    ],
+    "snippet": "Continuity System This page defines how canon is validated, updated, and repaired under **MYTHRAEL INFINITA v7**. Continuity Flags (Required) OK Aligned with CANON-LOCK canon. No action required. Minor Tension A variance exists but is expla"
+  }
+]
