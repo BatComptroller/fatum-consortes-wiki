@@ -57,3 +57,7 @@ nav:
 
   - Artifacts:
       - Twilight Sword of Titan: artifacts/twilight-sword-of-titan.md
+
+  - Costume Variants:
+      - Overview: costume-variants/index.md
+      - Twilight Costume (Titan): costume-variants/twilight-costume-of-titan.md
