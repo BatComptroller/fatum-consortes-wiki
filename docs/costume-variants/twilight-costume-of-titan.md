@@ -1,8 +1,8 @@
 ---
 canon_mode: CANON-LOCK
 continuity_flag: OK
-version: 2026.1
-updated: 2026-02-22
+version: "2026.09"
+updated: 2026-09-03
 title: Twilight Costume
 type: Costume Evolution
 status: Canon Conditional Variant (Baseline Locked, Resonance Triggered)
@@ -42,7 +42,7 @@ related:
 ---
 
 ## Overview
-The **Twilight Costume** is a liminal evolution of Titan’s Iconic Minimal Raiment, manifested in narrative response to the awakening of the Twilight Sword.
+The **Twilight Costume** is a liminal evolution of Titan’s baseline raiment, manifested in narrative response to the awakening of the Twilight Sword. Its historical source is the November 2025 Iconic Minimal Raiment; its current baseline reference is the September 2026 Golden Age Iconic Raiment.
 
 Where the Ascendant Raiment represents fulfilled mythic transcendence, the Twilight Costume represents the threshold moment:
 
@@ -57,7 +57,7 @@ It signals **deeper restraint**.
 The Twilight Costume first emerged during post-Incursion operations as Titan’s mastery of liminal energy fields matured under his Strategic Savant evolution.
 
 The awakening of the Twilight Sword required a visual state distinct from:
-- the clean **Iconic Minimal Raiment** baseline, and
+- the clean **Golden Age Iconic Raiment** baseline, and
 - the fully radiant **Ascendant Raiment** peak state.
 
 Thus, the Twilight Costume formed as a **threshold harmonization state**, aligned with:
@@ -70,7 +70,7 @@ Thus, the Twilight Costume formed as a **threshold harmonization state**, aligne
 ## Visual Canon (Locked)
 
 ### Silhouette
-Identical to the Iconic Minimal Raiment:
+Identical in core silhouette to the September 2026 Golden Age Iconic Raiment:
 - smooth second-skin indigo bodysuit  
 - flat light-teal “T” emblem  
 - salmon hooded cape  
@@ -165,7 +165,7 @@ It visually communicates:
 
 | State | Meaning | Visual Density |
 |---|---|---|
-| Iconic Minimal | Civic Guardian | Clean, flat, brand-locked |
+| Golden Age Iconic | Civic Guardian | Clean, flat, brand-locked |
 | Twilight | Threshold Decision | Darkened tone, silver eyes |
 | Ascendant | Fulfilled Myth | Glyph circuitry, radiance |
 
@@ -175,7 +175,7 @@ Ascendant is transcendent.
 ---
 
 ## Continuity Flags
-✔ Does not override Iconic Minimal Spec  
+✔ Does not override the September 2026 Golden Age Iconic Raiment baseline; the November 2025 Iconic Minimal Spec remains historical authority for retained palette and minimalist doctrine
 ✔ Respects Seven-Frequency emission law  
 ✔ Aligns with Strategic Savant evolution  
 ✔ Maintains non-lethal doctrine  

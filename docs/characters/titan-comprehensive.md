@@ -1,8 +1,8 @@
 ---
 canon_mode: CANON-LOCK
 continuity_flag: OK
-version: 2026.1
-updated: 2026-02-07
+version: "2026.09"
+updated: 2026-09-03
 tags:
   - character
   - titan
@@ -191,12 +191,42 @@ Titan’s post-incursion mythic role is bound to the existence of **Viridiom** (
 
 ---
 
-# Visual & Symbol Map (Quick Reference)
-- **Baseline palette:** indigo suit + salmon hooded cape + flat light-teal “T.”
-- **Resonance cues:** tri-harmonic aura (gold/green/blue), minimal and atmosphere-bound.
-- **Motif:** hope-through-cost; restraint as strength; repair without erasure.
+# Visual Canon — September 2026
+
+## Titan — September 2026 Golden Age Iconic Raiment
+
+**Status:** Current CANON-LOCK baseline, effective September 2026.
+
+Preserve Eliot Freeman as Nigerian American, with rich deep-brown skin, consistent facial identity and hair texture, and human emotional readability. His baseline eyes are dark brown; silver eye-light appears only in powered or revelatory states.
+
+### Baseline / Idle / Patrol
+- **Bodysuit:** one smooth, uninterrupted deep starbound indigo field (`#0F1A3A`) with no decorative seams
+- **Chest emblem:** one large, flat light-teal “T” (`#E7F6FF`), centered with a broad top bar readable at thumbnail size
+- **Cape:** simple connected salmon hood-and-cape construction; outer `#FF8A7A`, lining `#E8706A`
+- **Gloves and boots:** indigo, integrated into the bodysuit and leg silhouette
+- **Exclusions:** no belt, trunks, armor plates, gauntlets, piping, decorative seam clutter, permanent glyphs, permanent halo, permanent glow, or additional chest symbols
+- **State:** flat, non-glowing T; no visible mythic overlays
+
+**Artist memory rule:** Titan’s baseline costume must reduce to **figure + T + hood + cape**.
+
+### Resonance / Powered / Rite
+- Temporary silverlight eyes are permitted.
+- A temporary tri-harmonic atmosphere may use Lumina Gold, Gaea Green, and Harbinger Blue.
+- A faint Veridion star-line shimmer may appear inside the T during major emotional peaks.
+- Sanctigraphy remains scene-triggered only; its tokens never become permanent costume elements.
+- All effects disappear when Resonance ends.
+
+### Blue Lantern Exclusion
+Titan’s canon costume has no Blue Lantern influence: no ring, Blue Lantern emblem, Corps uniform geometry, Lantern circuitry, or Lantern-derived aura language. Harbinger Blue remains a permitted temporary Resonance color and is not Lantern-derived.
+
+### Supersession and Conditional Variants
+> The September 2026 Golden Age Iconic Raiment supersedes the baseline costume proportions and production guidance of TITAN.IMRSPEC.2025-11-01 where conflicting. The November 2025 entry remains authoritative for Titan’s locked palette, minimalist visual doctrine, and Baseline-vs-Resonance separation.
+
+Older costume history remains canon history. Story-earned Ascendant and Resonance variants remain conditional, must be explicitly called for by the story, and do not redefine Titan’s everyday baseline.
 
 ---
 
 ## Change Ledger
-- **Cause → Effect → Echo:** (append upon canon updates)
+- **September 2026 — Cause:** Cross-media production required an even simpler, instantly recognizable Titan silhouette.
+- **Effect:** Titan’s baseline costume is reduced to indigo body, broad T, hood, and salmon cape.
+- **Echo:** Mythic effects become more meaningful because the everyday costume remains visually quiet.

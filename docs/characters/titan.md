@@ -1,8 +1,8 @@
 ---
 canon_mode: CANON-LOCK
 continuity_flag: OK
-version: 2026.1
-updated: 2026-02-07
+version: "2026.09"
+updated: 2026-09-03
 tags:
   - character
   - trinity-of-hope
@@ -32,21 +32,37 @@ related:
 Titan is a myth-aware guardian whose power is governed by ethical restraint. In CANON-LOCK continuity, Titan functions as a stabilizing axis of hope and recovery rather than a weapon of domination.
 
 ## Visual Canon
-### Baseline (Minimal Iconic)
+### Titan — September 2026 Golden Age Iconic Raiment
+
+**Status:** Current CANON-LOCK baseline, effective September 2026.
+
 Use this appearance by default for most scenes, merch, and standard sequential pages.
 
-- **Bodysuit:** smooth **indigo** silhouette; minimal seams  
-- **Emblem:** flat, high-contrast **light-teal “T”** centered on chest  
-- **Cape:** **salmon hooded cape** with simple collar and drape  
-- **Accessories:** none by default (no belts/gauntlets unless story requires)  
-- **Eyes:** dark brown; **silver glow only when powered**
+- **Bodysuit:** one smooth, uninterrupted field of deep starbound indigo (`#0F1A3A`), including the gloves
+- **Emblem:** one large, flat light-teal “T” (`#E7F6FF`), with a broad top bar readable at thumbnail size
+- **Cape:** simple connected salmon hood-and-cape construction; outer `#FF8A7A`, lining `#E8706A`
+- **Boots:** simple indigo heroic boots integrated into the leg silhouette
+- **Negative controls:** no belt, trunks, armor plates, gauntlets, piping, decorative seam clutter, permanent glyphs, permanent halo, permanent glow, or additional chest symbols
+- **Representation:** preserve Eliot Freeman’s Nigerian American identity, rich deep-brown skin, facial identity, hair texture, and human emotional readability
+- **Eyes:** dark brown at baseline; silver eye-light only in powered or revelatory states
+
+**Artist memory rule:** The baseline must reduce to **figure + T + hood + cape**.
 
 ### Resonance (Conditional)
 Only appears in high-stakes moments (rites, major acts of hope, emotional peaks).
 
-- **Aura:** tri-harmonic atmosphere (gold/green/blue) as a field effect, not costume paint  
-- **Emblem shimmer:** subtle star-line shimmer during peak moments; returns to flat immediately after  
-- **Sanctigraphy tokens:** used sparingly and only when narratively earned (post-rite residue)
+- **Eyes:** temporary silverlight is permitted
+- **Aura:** temporary tri-harmonic atmosphere—Lumina Gold, Gaea Green, and Harbinger Blue—as a field effect, not costume paint
+- **Emblem shimmer:** a faint Veridion star-line shimmer may appear inside the T during major emotional peaks
+- **Sanctigraphy:** effects remain scene-triggered only; tokens are never permanent costume elements
+- **Reset:** all Resonance effects disappear when the state ends
+
+### Blue Lantern Exclusion
+Titan’s canon costume has no Blue Lantern influence: no ring, Blue Lantern emblem, Corps uniform geometry, Lantern circuitry, or Lantern-derived aura language.
+
+> **Canon supersession:** The September 2026 Golden Age Iconic Raiment supersedes the baseline costume proportions and production guidance of TITAN.IMRSPEC.2025-11-01 where conflicting. The November 2025 entry remains authoritative for Titan’s locked palette, minimalist visual doctrine, and Baseline-vs-Resonance separation.
+
+Story-earned Ascendant and Resonance variants remain conditional and do not redefine Titan’s everyday baseline.
 
 ## Power Governance (Canon Locks)
 - **Emission Palette:** Hope / Will / Compassion (Love as relational uplift only)  
@@ -65,7 +81,9 @@ Only appears in high-stakes moments (rites, major acts of hope, emotional peaks)
 
 ## Continuity Notes
 - Use **Viridiom** for the redeemed entity; **Veridion Heart** for the core node.  
-- If depicting post-rite environments, ensure Sanctigraphy grammar is present but restrained.
+- If a post-rite scene explicitly calls for Sanctigraphy, keep its grammar restrained and scene-triggered; never carry it into the permanent baseline.
 
 ## Change Ledger
-- **Cause → Effect → Echo:** (append when Titan canon updates occur)
+- **September 2026 — Cause:** Cross-media production required an even simpler, instantly recognizable Titan silhouette.
+- **Effect:** Titan’s baseline costume is reduced to indigo body, broad T, hood, and salmon cape.
+- **Echo:** Mythic effects become more meaningful because the everyday costume remains visually quiet.
